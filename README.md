@@ -1,4 +1,4 @@
-# Prueba tecnica Relish
+# Prueba técnica Relish
 
 ## Need to install
 - Node.js
