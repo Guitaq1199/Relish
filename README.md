@@ -8,8 +8,7 @@
 ### Backend
 - cd backend
 - npm install
-  
-  npm start
+- npm start
 
 ### Frontend
 - cd photos
