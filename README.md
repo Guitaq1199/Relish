@@ -1,15 +1,17 @@
 # prueba_tecnica_Relish
-##Need to install
-  -Node js
 
-##To run this project
+## Need to install
+- Node.js
 
-Backend:
- 	-cd backend
-	-npm install
-	-npm start
+## To run this project
 
-Frontend:
-	-cd photos
-	-npm install
-	-npm start
+### Backend
+- cd backend
+- npm install
+  
+  npm start
+
+### Frontend
+- cd photos
+- npm install
+- ng s -o
